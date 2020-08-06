@@ -1,4 +1,4 @@
-##Welcome to the official GoiConnect repository!
+##Welcome to the GoiConnect repository!
 
 <br>
 ###Cloning a repository
